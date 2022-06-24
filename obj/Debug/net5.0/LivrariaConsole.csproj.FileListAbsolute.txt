@@ -1,0 +1,56 @@
+C:\Users\thiag\Desktop\Github\C#\Programar.com.vc\LivrariaConsole\bin\Debug\net5.0\LivrariaConsole.exe
+C:\Users\thiag\Desktop\Github\C#\Programar.com.vc\LivrariaConsole\bin\Debug\net5.0\LivrariaConsole.deps.json
+C:\Users\thiag\Desktop\Github\C#\Programar.com.vc\LivrariaConsole\bin\Debug\net5.0\LivrariaConsole.runtimeconfig.json
+C:\Users\thiag\Desktop\Github\C#\Programar.com.vc\LivrariaConsole\bin\Debug\net5.0\LivrariaConsole.runtimeconfig.dev.json
+C:\Users\thiag\Desktop\Github\C#\Programar.com.vc\LivrariaConsole\bin\Debug\net5.0\LivrariaConsole.dll
+C:\Users\thiag\Desktop\Github\C#\Programar.com.vc\LivrariaConsole\bin\Debug\net5.0\ref\LivrariaConsole.dll
+C:\Users\thiag\Desktop\Github\C#\Programar.com.vc\LivrariaConsole\bin\Debug\net5.0\LivrariaConsole.pdb
+C:\Users\thiag\Desktop\Github\C#\Programar.com.vc\LivrariaConsole\obj\Debug\net5.0\LivrariaConsole.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\Github\C#\Programar.com.vc\LivrariaConsole\obj\Debug\net5.0\LivrariaConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Desktop\Github\C#\Programar.com.vc\LivrariaConsole\obj\Debug\net5.0\LivrariaConsole.AssemblyInfoInputs.cache
+C:\Users\thiag\Desktop\Github\C#\Programar.com.vc\LivrariaConsole\obj\Debug\net5.0\LivrariaConsole.AssemblyInfo.cs
+C:\Users\thiag\Desktop\Github\C#\Programar.com.vc\LivrariaConsole\obj\Debug\net5.0\LivrariaConsole.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\Github\C#\Programar.com.vc\LivrariaConsole\obj\Debug\net5.0\LivrariaConsole.dll
+C:\Users\thiag\Desktop\Github\C#\Programar.com.vc\LivrariaConsole\obj\Debug\net5.0\ref\LivrariaConsole.dll
+C:\Users\thiag\Desktop\Github\C#\Programar.com.vc\LivrariaConsole\obj\Debug\net5.0\LivrariaConsole.pdb
+C:\Users\thiag\Desktop\Github\C#\Programar.com.vc\LivrariaConsole\obj\Debug\net5.0\LivrariaConsole.genruntimeconfig.cache
+C:\Users\thiag\Desktop\Github\C#\Programar.com.vc\LivrariaConsole\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\thiag\Desktop\Github\C#\Programar.com.vc\LivrariaConsole\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\thiag\Desktop\Github\C#\Programar.com.vc\LivrariaConsole\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\thiag\Desktop\Github\C#\Programar.com.vc\LivrariaConsole\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\thiag\Desktop\Github\C#\Programar.com.vc\LivrariaConsole\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\thiag\Desktop\Github\C#\Programar.com.vc\LivrariaConsole\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\thiag\Desktop\Github\C#\Programar.com.vc\LivrariaConsole\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\thiag\Desktop\Github\C#\Programar.com.vc\LivrariaConsole\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\thiag\Desktop\Github\C#\Programar.com.vc\LivrariaConsole\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\thiag\Desktop\Github\C#\Programar.com.vc\LivrariaConsole\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\thiag\Desktop\Github\C#\Programar.com.vc\LivrariaConsole\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\thiag\Desktop\Github\C#\Programar.com.vc\LivrariaConsole\obj\Debug\net5.0\LivrariaConsole.csproj.CopyComplete
+C:\Users\Rafa\Desktop\Thiago  Lindo Programador\LivrariaConsole\bin\Debug\net5.0\LivrariaConsole.exe
+C:\Users\Rafa\Desktop\Thiago  Lindo Programador\LivrariaConsole\bin\Debug\net5.0\LivrariaConsole.deps.json
+C:\Users\Rafa\Desktop\Thiago  Lindo Programador\LivrariaConsole\bin\Debug\net5.0\LivrariaConsole.runtimeconfig.json
+C:\Users\Rafa\Desktop\Thiago  Lindo Programador\LivrariaConsole\bin\Debug\net5.0\LivrariaConsole.runtimeconfig.dev.json
+C:\Users\Rafa\Desktop\Thiago  Lindo Programador\LivrariaConsole\bin\Debug\net5.0\LivrariaConsole.dll
+C:\Users\Rafa\Desktop\Thiago  Lindo Programador\LivrariaConsole\bin\Debug\net5.0\ref\LivrariaConsole.dll
+C:\Users\Rafa\Desktop\Thiago  Lindo Programador\LivrariaConsole\bin\Debug\net5.0\LivrariaConsole.pdb
+C:\Users\Rafa\Desktop\Thiago  Lindo Programador\LivrariaConsole\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rafa\Desktop\Thiago  Lindo Programador\LivrariaConsole\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rafa\Desktop\Thiago  Lindo Programador\LivrariaConsole\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Rafa\Desktop\Thiago  Lindo Programador\LivrariaConsole\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Rafa\Desktop\Thiago  Lindo Programador\LivrariaConsole\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Rafa\Desktop\Thiago  Lindo Programador\LivrariaConsole\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Rafa\Desktop\Thiago  Lindo Programador\LivrariaConsole\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\Rafa\Desktop\Thiago  Lindo Programador\LivrariaConsole\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Rafa\Desktop\Thiago  Lindo Programador\LivrariaConsole\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\Rafa\Desktop\Thiago  Lindo Programador\LivrariaConsole\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Rafa\Desktop\Thiago  Lindo Programador\LivrariaConsole\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Rafa\Desktop\Thiago  Lindo Programador\LivrariaConsole\obj\Debug\net5.0\LivrariaConsole.csproj.AssemblyReference.cache
+C:\Users\Rafa\Desktop\Thiago  Lindo Programador\LivrariaConsole\obj\Debug\net5.0\LivrariaConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafa\Desktop\Thiago  Lindo Programador\LivrariaConsole\obj\Debug\net5.0\LivrariaConsole.AssemblyInfoInputs.cache
+C:\Users\Rafa\Desktop\Thiago  Lindo Programador\LivrariaConsole\obj\Debug\net5.0\LivrariaConsole.AssemblyInfo.cs
+C:\Users\Rafa\Desktop\Thiago  Lindo Programador\LivrariaConsole\obj\Debug\net5.0\LivrariaConsole.csproj.CoreCompileInputs.cache
+C:\Users\Rafa\Desktop\Thiago  Lindo Programador\LivrariaConsole\obj\Debug\net5.0\LivrariaConsole.csproj.CopyComplete
+C:\Users\Rafa\Desktop\Thiago  Lindo Programador\LivrariaConsole\obj\Debug\net5.0\LivrariaConsole.dll
+C:\Users\Rafa\Desktop\Thiago  Lindo Programador\LivrariaConsole\obj\Debug\net5.0\ref\LivrariaConsole.dll
+C:\Users\Rafa\Desktop\Thiago  Lindo Programador\LivrariaConsole\obj\Debug\net5.0\LivrariaConsole.pdb
+C:\Users\Rafa\Desktop\Thiago  Lindo Programador\LivrariaConsole\obj\Debug\net5.0\LivrariaConsole.genruntimeconfig.cache
